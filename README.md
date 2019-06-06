@@ -34,4 +34,4 @@ We will use these to compare assess the performance, compare the predictions, an
 
 ### Best Mean Absolute Error Score
 
-Our lowest MAE is 23.1923
+Our lowest MAE is 21.08
